@@ -1,2 +1,4 @@
-# TextingAnalyzer
-Set of tools for analyzing the content and social dynamics of text messaging threads. 
+## Dependencies
+
+* [CMUTweetTagger.py](https://github.com/ianozsvald/ark-tweet-nlp-python)
+* [tweetmotif](https://github.com/brendano/tweetmotif)
